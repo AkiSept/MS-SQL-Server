@@ -1,4 +1,4 @@
-# Работа с MS SQL Server
+# Работа с MS SQL Server (T-SQL)
 
 В базе следующие сущности:
 1)	Agents - Агенты
